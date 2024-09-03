@@ -1,0 +1,147 @@
+.sombrero
+{
+    background-color: purple;
+    position: relative;
+    width: 200px;
+    height: 130px;
+    top: 170px;
+    left: 207px;
+}
+
+.sombrerohijo{
+    background-color: purple;
+    position: relative;
+    width: 400px;
+    height: 70px;
+    padding: 30px;
+    left: 80px;
+    top:160px;
+    border-radius: 55%;
+    z-index: 1;
+    text-align: center;
+}
+.cara
+{
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    border-radius: 45%;
+    position: relative;
+    margin: 100px;
+}
+
+.ojoizq
+{
+    background-color: yellow;
+    width: 65px;
+    height: 65px;
+    position: absolute;
+    padding: 10px;
+    top: 100px;
+    left: 80px;
+    border-radius: 45%;
+
+
+}
+
+.hijoojoizq
+{   background-color: rgb(26, 26, 24);
+    width: 45px;
+    height: 15px;
+    margin-top: 15px;
+    padding: 10px;
+    top: 100px;
+    left: 80px;
+    border-radius: 60%;
+
+}
+.ojoder
+{
+    background-color: yellow;
+    width: 65px;
+    height: 65px;
+    position: absolute;
+    padding: 10px;
+    top: 100px;
+    left: 250px;
+    border-radius: 45%;
+
+
+}
+
+.hij-der{
+
+    background-color: rgb(26, 26, 24);
+    width: 45px;
+    height: 15px;
+    margin-top: 15px;
+    padding: 10px;
+    top: 100px;
+    left: 80px;
+    border-radius: 60%;
+
+}
+
+.boca
+{
+    background-color: greenyellow;
+    position: absolute;
+    width: 230px;
+    height: 100px;
+    padding: 10px;
+    top: 250px;
+    left: 80px;
+    border-radius: 50%;
+}
+
+.hijoboca
+{  background-color: black;
+   width: 100px;
+   height: 50px;
+   padding: 10px;
+   margin-top: 15px;
+   margin-left: 50px;
+   border-radius: 55%;
+   
+
+}
+
+.corbata1
+{
+    background-color: green;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top:360px;
+    border-radius: 50px;
+
+}
+
+.corbata2
+{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top:360px;
+    left: 130px;
+    border-radius: 55px;
+    border: 10px solid black;
+
+}
+
+
+.corbata3
+{
+    background-color: green;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    top:360px;
+    left: 240px;
+    border-radius: 50px;
+
+}
+
+
+
